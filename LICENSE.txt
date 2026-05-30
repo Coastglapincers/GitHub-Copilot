@@ -25,4 +25,4 @@ Core Capabilities
 
 
 TAGS
-github-copilot, copilot-pro, copilot-business, copilot-2026, ai-pair-programmer, github-copilot-download, pro-software-2026, trial-software                                   
+github-copilot, copilot-pro, copilot-business, copilot-2026, ai-pair-programmer, github-copilot-download, pro-software-2026, trial-software                                    
